@@ -58,6 +58,17 @@ Open circuit characteristics
 
   
 Load Characteristics:
- 
+
+ ![WhatsApp Image 2025-10-17 at 08 30 22_01006d06](https://github.com/user-attachments/assets/87ba00e5-712d-473c-82c3-509c5fe42dcf)
+![WhatsApp Image 2025-10-17 at 08 30 33_0351cde4](https://github.com/user-attachments/assets/e533a12b-ac5f-4cfe-ad60-fa587f87ef50)
+![WhatsApp Image 2025-10-17 at 08 30 38_ca2ab6ba](https://github.com/user-attachments/assets/738c2fc0-607a-4bc6-90bc-0fb21c825234)
+![WhatsApp Image 2025-10-17 at 08 30 55_4d07656f](https://github.com/user-attachments/assets/3d1f456a-bcc7-4a7b-8f79-d81ed48f902c)
+![WhatsApp Image 2025-10-17 at 08 31 31_550f1628](https://github.com/user-attachments/assets/ba5e9d9a-ed89-4b32-be6f-7a8728c313f3)
+![WhatsApp Image 2025-10-17 at 08 31 36_d29397e9](https://github.com/user-attachments/assets/4a83416f-92f9-4b2b-8876-1cff9779aaed)
+![WhatsApp Image 2025-10-17 at 08 32 02_d63b67e0](https://github.com/user-attachments/assets/75b7a965-664c-4e8e-85e6-49633eb9949e)
+![WhatsApp Image 2025-10-17 at 08 54 17_902fca8f](https://github.com/user-attachments/assets/a81988dc-274d-4b77-8384-cafd11862215)
+![WhatsApp Image 2025-10-17 at 08 54 17_99f927bc](https://github.com/user-attachments/assets/426c0654-7cf6-42b4-9f54-78eab8c4d5db)
+![WhatsApp Image 2025-10-17 at 08 54 17_c6f81f53](https://github.com/user-attachments/assets/5853b4ca-2472-45ed-b632-c3acff1ee5de)
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
